@@ -69,7 +69,7 @@ The data cleaning process follows a four-step pipeline:
 
 ---
 
-##Requirements & Usage
+## Requirements & Usage
 
 1. **Database:** MySQL Server / MySQL Workbench
 2. **Setup:**
